@@ -8,6 +8,8 @@ pkg install git
 
 git clone https://github.com/lilung/linda
 
+cd linda
+
 php linda.php
 
 Author: Rianto
